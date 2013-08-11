@@ -1,0 +1,5 @@
+name: Lat/Lon
+proj: ll
+a: 6378137
+es: 0.0066943800
+no_defs: defined
