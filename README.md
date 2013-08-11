@@ -15,7 +15,10 @@ specifies program arguments (see OPTIONS) on the command
 line.  
 
 ## Command line options
-<code>r.dispersal -m -i --verbose landscape_types=habitat_base@march07 start_patches=habitat_start@march07 replacement_types=habitat_post_mortem@march07 parameter_file=~/grassdata/parameterfile.in energylevel=2 nrofindividualsreleasedpercell=100</code>
+<code>r.dispersal -m -i --verbose landscape_types=habitat_base@march07 \
+  start_patches=habitat_start@march07 replacement_types=habitat_post_mortem@march07 \
+  parameter_file=~/grassdata/parameterfile.in energylevel=2 \
+  nrofindividualsreleasedpercell=100</code>
 
 ## OPTIONS
 The user must specify the names of the raster map layers to
