@@ -20,18 +20,17 @@ line.
 ## OPTIONS
 The user must specify the names of the raster map layers to
 be used for *base habitat types*, *start_patches* and *replacement patches*, 
-the
-*method/* used (i.e., Proximity Index), the *min/*, the *max/* and the *keyval/* 
+the *method* used (i.e., Proximity Index), the *min*, the *max* and the *keyval* 
 of the class of interest of the input raster map.
 
 
 ### Patchassessment Options
 
-the *-m/* and *-i/* flags define that changes in number of migrants and changes in number of immigrants of the focus patch are calculated separetely. If you select both flags than it will add up these two changes.
+the *-m* and *-i* flags define that changes in number of migrants and changes in number of immigrants of the focus patch are calculated separetely. If you select both flags than it will add up these two changes.
 Generally these values are multiplied by 1000 for display reasons.
 
 ### Parameter file:
-The *parameter file/* holds all information concerning extinction probability, edge-traversability-probability, matrix values. 
+The *parameter file* holds all information concerning extinction probability, edge-traversability-probability, matrix values. 
 
 If you have four landscape cell types, your parameterfile looks like this:
 
