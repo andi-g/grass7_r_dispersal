@@ -64,10 +64,9 @@ the following line in the file definitions.h:
 
 the value 20 (approx. MB) can be changed e.g. 80, 100 up to the amount of your memory.
 
-### AUTHOR
+### Authors
 
-Dr. Andreas Gros
-Dr. Martin Wegmann
-University of Wuerzburg
+*Dr. Andreas Gros
+*Dr. Martin Wegmann
 
 *Last changed: $Date: 2013/08/04*
