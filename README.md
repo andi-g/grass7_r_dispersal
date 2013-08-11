@@ -2,7 +2,7 @@
 
 ## DESCRIPTION
 
-<code>r.dispersal</code> is a spatially explicit population model to estimate 
+<code>r.dispersal</code> is a module for Grass7 to estimate 
 the importance of habitat patches as stepping stones for animal dispersal. 
 For a series of habitat patches, each is taken in turn as a start patch for 
 a mechanistic animal movement/survival model and each other patch is 
