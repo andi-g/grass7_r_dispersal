@@ -28,7 +28,7 @@ the *method* used (i.e., Proximity Index), the *min*, the *max* and the *keyval*
 of the class of interest of the input raster map.
 
 
-### Patchassessment Options
+### Patch Assessment Options
 
 the *-m* and *-i* flags define that changes in number of migrants and changes in number of immigrants of the focus patch are calculated separetely. If you select both flags than it will add up these two changes.
 Generally these values are multiplied by 1000 for display reasons.
