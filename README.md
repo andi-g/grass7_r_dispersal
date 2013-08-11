@@ -60,7 +60,7 @@ The 5th row corresponds to the matrix categories. The 6th row it the step length
 If you have problems with memory allocation you have to change 
 the following line in the file definitions.h:
 
-#define MAX_MEM_SIZE_USED_BY_BUFFER 1024*1024*20/sizeof(CELL)
+<code>#define MAX_MEM_SIZE_USED_BY_BUFFER 1024*1024*20/sizeof(CELL)</code>
 
 the value 20 (approx. MB) can be changed e.g. 80, 100 up to the amount of your memory.
 
