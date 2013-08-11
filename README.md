@@ -18,7 +18,8 @@ line.
 <pre>r.dispersal -m -i --verbose landscape_types=habitat_base@march07 \
   start_patches=habitat_start@march07 replacement_types=habitat_post_mortem@march07 \
   parameter_file=~/grassdata/parameterfile.in energylevel=2 \
-  nrofindividualsreleasedpercell=100</pre>
+  nrofindividualsreleasedpercell=100
+</pre>
 
 ## OPTIONS
 The user must specify the names of the raster map layers to
