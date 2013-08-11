@@ -66,7 +66,6 @@ the value 20 (approx. MB) can be changed e.g. 80, 100 up to the amount of your m
 
 ### Authors
 
-*Dr. Andreas Gros
-*Dr. Martin Wegmann
+Dr. Andreas Gros, Dr. Martin Wegmann
 
-*Last changed: $Date: 2013/08/04*
+Last changed: 20130804
